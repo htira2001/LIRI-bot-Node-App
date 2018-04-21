@@ -52,6 +52,9 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 4. `node liri.js do-what-it-says`
    
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+   
+   <img width="421" alt="screen shot 2018-04-21 at 9 46 10 am" src="https://user-images.githubusercontent.com/32858340/39084881-a0e7886c-4549-11e8-880f-53509e54d14a.png">
+
 
 ### BONUS
 
