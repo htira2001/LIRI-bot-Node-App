@@ -23,6 +23,8 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
      * The album that the song is from
 
    * If no song is provided then your program will default to "The Sign" by Ace of Base.
+   
+   <img width="577" alt="screen shot 2018-04-21 at 9 43 30 am" src="https://user-images.githubusercontent.com/32858340/39084848-fba16710-4548-11e8-974c-30e557129341.png">
 
 3. `node liri.js movie-this '<movie name here>'`
 
