@@ -9,6 +9,9 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 1. `node liri.js my-tweets`
 
    * This will show your last 20 tweets and when they were created at in your terminal/bash window.
+   
+   <img width="747" alt="screen shot 2018-04-21 at 9 39 02 am" src="https://user-images.githubusercontent.com/32858340/39084873-7a69fd5a-4549-11e8-80f0-c589ed6a9585.png">
+   
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
