@@ -42,6 +42,9 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
      ```
 
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+   
+   <img width="1116" alt="screen shot 2018-04-21 at 9 44 18 am" src="https://user-images.githubusercontent.com/32858340/39084864-3c09fcb8-4549-11e8-99a3-5c2bc0bef270.png">
+
 
 4. `node liri.js do-what-it-says`
    
